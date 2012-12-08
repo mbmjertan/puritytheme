@@ -1,0 +1,4 @@
+puritytheme
+===========
+
+Purity. The theme
